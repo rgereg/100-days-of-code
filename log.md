@@ -10,7 +10,7 @@
 
 ---
 
-### Day 1: September 2, 2022
+### Day 1: October 2, 2022
 
 **Today's Progress**: Completed HTML/CSS basic template
 
